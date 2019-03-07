@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  background-color: black;
+  background-image: url(/static/images/landingpagebg.png);
+}
+#column {
+  width: 600px;
+  margin: auto;
+  color: white;
+  background-image: url(/static/images/columnbg.png);
+  font-family: Georgia, Cambria, Palatino, serif;
+}
+#header {
+  margin-left: -300px;
+}
+#eve {
+  float: left;
+  margin-right: 2em;
+}
+#title {
+  font-size: 36px;
+}
+h1 {
+  margin: 1em 0;
+}
+hr {
+  clear: both;
+  margin: 1em 0;
+}
+table {
+  width: 100%;
+}
+.puzzle {
+  color: white;
+}
+.meta {
+  color: #ee234e;
+}
+.solution {
+  float: right;
+}
+.puz-img {
+  width: 100%;
+}
+.puz-link {
+  color: deepskyblue;
+}
