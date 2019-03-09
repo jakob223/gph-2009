@@ -8,3 +8,5 @@ This site, hosted at [2009.galacticpuzzlehunt.com](https://2009.galacticpuzzlehu
 * Publish hunt stats
 * Fix Stationary
 * Change the background for future hunts
+* Name a Mystery Hunt team after a puzzle
+* How do you safely deorbit a space station?
