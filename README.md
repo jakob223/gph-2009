@@ -6,3 +6,5 @@ This site, hosted at [2009.galacticpuzzlehunt.com](https://2009.galacticpuzzlehu
 
 * Copy the leaderboard over
 * Publish hunt stats
+* Fix Stationary
+* Change the background for future hunts

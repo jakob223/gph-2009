@@ -71,7 +71,7 @@ def is_prime(number):
     if number % divisor == 0:
       return False
     divisor += 1
-  return True 
+  return True
 
 import sys
 print series_of_tubes(sys.argv[1])
