@@ -44,7 +44,7 @@ def series_of_tubes(word):
   answer = alphabet[stage5 - 10]
   return 'Success!'
 
-### HELPER FUNCTIONS: FEEL FREE TO IGNORE ###
+##### HELPER FUNCTIONS #####
 
 alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
