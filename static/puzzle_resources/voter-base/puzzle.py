@@ -16,7 +16,7 @@ def series_of_tubes(word):
     stage2.append(pair)
 
   # Stage 3: Treats each pair of letters as two base-36 numbers and multiplies
-  # them, then checks that the product has three digits.
+  # the two together, then checks that each product has three digits.
   stage3 = list()
   for letter1, letter2 in stage2:
     product = int(letter1, 36) * int(letter2, 36)
